@@ -1,0 +1,9 @@
+5.412770	5.412770	Michael O'Driscoll: Hello everyone, and welcome. 
+8.097844	8.097844	My name is Michael O'Driscoll and I'm a professor of English at the University of Alberta in Edmonton, Canada, and a governing board member of the SpokenWeb research network. 
+18.113599	18.113599	I'd like to begin by acknowledging the indigenous peoples of all the lands that we are on today.
+23.441129	23.441129	Given that we meet here on a virtual platform, I would like to take a moment to a acknowledge the importance of the land that we each call home.
+31.198011	31.198011	We do this to reaffirm our commitment and responsibility in improving relationships between nations, and to improving our own understanding of local indigenous peoples and their cultures.
+37.036983	37.036983	From coast, to coast, to coast, we acknowledge the ancestral and unceded territory of all Inuit, Métis, and First Nations that call this home.
+52.039306	52.039306	The University of Alberta is located on Treaty Six Territory and the Métis Nation Homeland.
+59.284745	59.284745	I invite each of you to consider the traditional lands on which you might be located, and take a moment to consider the responsibilities that follow from that.
+69.428361	69.428361	The SSHRC-funded SpokenWeb partnership brings together literary scholars and digital humanists, librarians and archivists, media historians, sound artists, oral historians, designers, programmers, poets, musicians, cultural activists, and performers, to learn about, share, and study literary sound recordings,
