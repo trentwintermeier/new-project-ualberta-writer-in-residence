@@ -11,6 +11,13 @@
         "format": "text/html"
       }
     ],
+    "provider": [
+      {
+        "id": "test",
+        "type": "Agent",
+        "label": { "en": [ "test" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://trentwintermeier.github.io/new-project-ualberta-writer-in-residence/second-test-from-direct-link/canvas-1/canvas",
