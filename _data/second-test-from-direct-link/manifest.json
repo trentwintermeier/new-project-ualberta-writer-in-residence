@@ -7,7 +7,7 @@
       {
         "id": "https://trentwintermeier.github.io/new-project-ualberta-writer-in-residence/second-test-from-direct-link/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 420.0,
+        "duration": 3,
         "items": [
           {
             "id": "https://trentwintermeier.github.io/new-project-ualberta-writer-in-residence/second-test-from-direct-link/canvas-1/paintings",
@@ -18,8 +18,8 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://archive.org/details/new-project_20220920",
-                    "duration": 420.0
+                  "id": "",
+                    "duration": 3
                 },
                 "target": "https://trentwintermeier.github.io/new-project-ualberta-writer-in-residence/second-test-from-direct-link/canvas-1/canvas"
               }
