@@ -3,6 +3,14 @@
     "id": "https://trentwintermeier.github.io/new-project-ualberta-writer-in-residence/second-test-from-direct-link/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "second test from direct link" ] },
+    "homepage": [
+      {
+        "id": "second test",
+        "type": "Text",
+        "label": { "en": [ "second test from direct link" ] },
+        "format": "text/html"
+      }
+    ],
     "items": [
       {
         "id": "https://trentwintermeier.github.io/new-project-ualberta-writer-in-residence/second-test-from-direct-link/canvas-1/canvas",
