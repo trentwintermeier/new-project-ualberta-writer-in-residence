@@ -1,0 +1,63 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://demos.rescarta.org/ResCarta-Web/iiif/api/presentation/3/b7ba1892-42e3-4a83-97e6-e9ee81af3b80%252Fwionrfi0%252F20180223%252F00000001/manifest",
+ "type": "Manifest",
+ "label": {"none": ["Belgium"]},
+ "metadata": [
+  {
+   "label": {"none": ["Abstract"]},
+   "value": {"en": ["A series of travel videos"]}
+  },
+  {
+   "label": {"none": ["Owner"]},
+   "value": {"none": ["The ResCarta Foundation"]}
+  },
+  {
+   "label": {"none": ["Type of resource"]},
+   "value": {"none": ["Moving image"]}
+  },
+  {
+   "label": {"none": ["Genre"]},
+   "value": {"none": ["Videorecording"]}
+  },
+  {
+   "label": {"none": ["Date captured"]},
+   "value": {"none": ["2018-03-19"]}
+  },
+  {
+   "label": {"none": ["Language"]},
+   "value": {"none": ["English"]}
+  },
+  {
+   "label": {"none": ["Identifier"]},
+   "value": {"none": ["wionrfi0/20180223/00000001"]}
+  }
+ ],
+ "items": [{
+  "id": "https://demos.rescarta.org/ResCarta-Web/iiif/api/presentation/3/b7ba1892-42e3-4a83-97e6-e9ee81af3b80%252Fwionrfi0%252F20180223%252F00000001/canvas/0",
+  "type": "Canvas",
+  "label": {"none": ["1"]},
+  "duration": 24.058,
+  "thumbnail": {
+   "id": "https://demos.rescarta.org/ResCarta-Web/servlet/RcWebThumbnail?obj_id=wionrfi0/20180223/00000001&pg_idx=0&obj_type=VIDEO&iiif=true",
+   "type": "Image",
+   "format": "image/png"
+  },
+  "items": [{
+   "id": "https://demos.rescarta.org/ResCarta-Web/iiif/api/presentation/3/b7ba1892-42e3-4a83-97e6-e9ee81af3b80%252Fwionrfi0%252F20180223%252F00000001/annotationPage/0",
+   "type": "AnnotationPage",
+   "items": [{
+    "id": "https://demos.rescarta.org/ResCarta-Web/iiif/api/presentation/3/b7ba1892-42e3-4a83-97e6-e9ee81af3b80%252Fwionrfi0%252F20180223%252F00000001/annotation/0",
+    "type": "Annotation",
+    "motivation": "painting",
+    "target": "https://demos.rescarta.org/ResCarta-Web/iiif/api/presentation/3/b7ba1892-42e3-4a83-97e6-e9ee81af3b80%252Fwionrfi0%252F20180223%252F00000001/canvas/0",
+    "body": {
+     "id": "https://demos.rescarta.org/ResCarta-Web/servlet/VideoStreamer?obj_id=b7ba1892-42e3-4a83-97e6-e9ee81af3b80%2Fwionrfi0%2F20180223%2F00000001",
+     "type": "Video",
+     "format": "video/mp4",
+     "duration": 24.058
+    }
+   }]
+  }]
+ }]
+}
